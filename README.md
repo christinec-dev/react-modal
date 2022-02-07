@@ -1,3 +1,8 @@
+# Reusable React Modal
+This is a reusable modal component made with React and React Hooks. It changes the states through props and functions. You can thus change the modal message universally. 
+
+![Web capture_7-2-2022_164611_localhost](https://user-images.githubusercontent.com/87696858/152812185-6373c194-7e00-4097-becb-a6a41d14e680.jpeg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
